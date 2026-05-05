@@ -1,2 +1,7 @@
-# demo-estudio-juridico-baulo-velazquez
-Demo web para Estudio Juridico Baulo Velazquez — diseñada por eterlab.
+# Estudio Juridico Baulo Velazquez
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
